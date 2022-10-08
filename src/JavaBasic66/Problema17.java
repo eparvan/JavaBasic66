@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Problema17 {
     public static void main(String[] args){
-       // BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
+
         Scanner input = new Scanner(System.in);
         System.out.print("Numarul binar1 = ");
         String numar1 = input.nextLine();

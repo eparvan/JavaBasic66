@@ -2,9 +2,10 @@ package JavaBasic66;
 
 import java.io.IOException;
 import java.util.Scanner;
+
 /*
-* Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers.
-* */
+ * Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers.
+ * */
 public class ArithmeticallyTwoNumber {
 
     public static void main(String[] args) throws IOException {
